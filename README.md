@@ -7,7 +7,7 @@ Sounds familiar? Well, I decided to do something about it. Manually converting t
 This is where the awesome concept of Text Summarization using Deep Learning really helped me out. It solves the one issue which kept bothering me before – now our model can understand the context of the entire text. It’s a dream come true for all of us who need to come up with a quick summary of a document!
 
 ## Project description
-✏️ - 
+✏️ - The Machine Learning model used can predict the body fat index with 70 % accuracy, without the need for the person's density (weight under water), as this is a measurement that is difficult to obtain in real life.
 
 🛠 - Jupyter Notebooks have been used because of their ease of use and convenience for exploratory data analysis, along with the Python language.
 
